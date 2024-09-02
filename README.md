@@ -25,4 +25,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/DEV-Topper/DEV-Topper/blob/output/github-contribution-grid-snake.svg)
